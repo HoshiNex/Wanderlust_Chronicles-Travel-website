@@ -44,5 +44,3 @@ Explore breathtaking destinations, discover travel tips, and immerse yourself in
 
 7. **Deploy (Optional)**:
    - If you want to host your website online, consider deploying it to a web hosting service or platform (e.g., GitHub Pages, Netlify, Heroku).
-
-Remember to replace placeholders (such as "Wanderlust Chronicles") with your actual repository name and customize the README file to provide relevant information about your website. Happy coding! 🚀🌐
