@@ -14,7 +14,7 @@ Explore breathtaking destinations, discover travel tips, and immerse yourself in
 ## Installation
 
 1. **Download the Repository**:
-   - Visit the GitHub repository for your website (e.g., "Wanderlust Chronicles").
+   - Visit the GitHub repository for Wanderlust Chronicles.
    - Click on the green **Code** button.
    - Choose **Download ZIP**.
    - Save the downloaded zip file to your local computer.
