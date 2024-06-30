@@ -24,7 +24,7 @@ Explore breathtaking destinations, discover travel tips, and immerse yourself in
    - Move the unpacked folder to the desired location on your hard drive.
 
 3. **Customize and Set Up**:
-   - Inside the extracted folder, you'll find your website's files.
+   - Inside the extracted folder, you'll find website's files.
    - Open the README file to understand how to set up and configure your website.
    - Follow any installation instructions provided in the repository's documentation or website.
 
