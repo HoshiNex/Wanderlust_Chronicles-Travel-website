@@ -15,8 +15,9 @@ Explore breathtaking destinations, discover travel tips, and immerse yourself in
 
 1. **Download the Repository**:
    - Visit the GitHub repository for Wanderlust Chronicles website.
-   - Click on the green **Code** button.
-   - Choose **Download ZIP**.
+   - Click on the "Releases" section to find the latest version.
+   - Select the latest release (e.g., v1.1).
+   - Download the source code (zip file) from the assets section of the release.
    - Save the downloaded zip file to your local computer.
 
 2. **Extract the ZIP File**:
